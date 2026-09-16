@@ -1,5 +1,5 @@
 # Item Highlighter
-Version 1.0.1
+Version 1.0.2
 
 ![icon.jpg
 
@@ -160,3 +160,5 @@ This project is released under the GNU General Public License (GPL v2 or later).
 	- Updated metadata
 	- Updated changelog
 	- Fixed Qt5/Qt6 compatibility issues
+	Version 1.0.2
+	- Fix Qt6 check issue
