@@ -100,6 +100,7 @@ Example:
 ## Requirements
 
 - QGIS 3.x
+- QGIS 4.x
 - Python 3
 - PyQt5
 
