@@ -110,14 +110,10 @@ Example:
 
 1. Download or clone the repository.
 2. Copy the plugin folder into the QGIS plugins directory.
-For QGIS3 :(C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\item_highlighter)
-For QGIS4 :(C:\Users\...\AppData\Roaming\QGIS\QGIS4\profiles\default\python\plugins\item_highlighter)
+For QGIS3 : "C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\item_highlighter"
+For QGIS4 : "C:\Users\...\AppData\Roaming\QGIS\QGIS4\profiles\default\python\plugins\item_highlighter"
 3. Restart QGIS.
 4. Enable the plugin from:
-
-```text
-Plugins > Manage and Install Plugins
-```
 
 ---
 
