@@ -113,7 +113,7 @@ Example:
 	- For QGIS3 : "C:\Users\...\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\item_highlighter"
 	- For QGIS4 : "C:\Users\...\AppData\Roaming\QGIS\QGIS4\profiles\default\python\plugins\item_highlighter"
 3. Restart QGIS.
-4. Enable the plugin from:
+4. Install the plugin from the QGIS plugin installer and install from a zip file (The plugin is not public for now)
 
 ---
 
