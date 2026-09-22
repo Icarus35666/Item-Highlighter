@@ -159,3 +159,6 @@ This project is released under the GNU General Public License (GPL v2 or later).
 	- Fixed Qt5/Qt6 compatibility issues
 	Version 1.0.2
 	- Fix Qt6 check issue
+	Version 1.0.3
+	- Fix the issue where the setting doesn't apply when setting up a new configuration without restarting the plugin.
+	
